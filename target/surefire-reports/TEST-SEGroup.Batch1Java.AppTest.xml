@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Hansika\AppData\Local\Temp\surefire2172987876853698818\surefirebooter2724968509488760397.jar C:\Users\Hansika\AppData\Local\Temp\surefire2172987876853698818 2024-11-15T11-24-50_916-jvmRun1 surefire5500950320100705617tmp surefire_07170463876642633980tmp"/>
+    <property name="sun.java.command" value="C:\Users\Hansika\AppData\Local\Temp\surefire9737805688908871409\surefirebooter6229741014621737066.jar C:\Users\Hansika\AppData\Local\Temp\surefire9737805688908871409 2024-11-19T14-11-44_996-jvmRun1 surefire16792248352184112160tmp surefire_01827855802871807714tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Hansika\eclipse-workspace\Batch1Java\target\test-classes;C:\Users\Hansika\eclipse-workspace\Batch1Java\target\classes;C:\Users\Hansika\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Hansika\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Hansika\AppData\Local\Temp\surefire2172987876853698818\surefirebooter2724968509488760397.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Hansika\AppData\Local\Temp\surefire9737805688908871409\surefirebooter6229741014621737066.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.2+13-LTS-58"/>
@@ -59,5 +59,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="SEGroup.Batch1Java.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="SEGroup.Batch1Java.AppTest" time="0.003"/>
 </testsuite>
